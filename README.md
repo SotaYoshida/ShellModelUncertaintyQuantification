@@ -1,7 +1,7 @@
 # ShellModelUncertaintyQuantification
 Shell-model results for p-shell nuclei with uncertainty quantification
 
-This is the repository to provide more detailed results of the following paper:
+This is the repository to provide updated version of the results discussed in the following article:
 Uncertainty quantification in the nuclear shell model  
 Sota Yoshida, Noritaka Shimizu, Tomoaki Togashi, Takaharu Otsuka  
 DOI: 10.1103/PhysRevC.98.061301  
