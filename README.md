@@ -21,16 +21,17 @@ JTN: The "specifier" of the states. For example, (JTN=2+0,3) means the third low
 Eexp: Experimental energy eigenvalues from ENSDF (Note: This can be outdated)  
 ExExp: Experimental excitation energies of the states 
 CKE(CKEx): Calculated energy eigenvalues (excitation energies) using the Cohen Kurath interaction (CKtb1 in our paper)    
-EMAP(ExMAP): Results with the z-mass interection
+EMAP(ExMAP): Results with the z-mass interection  
 LA: mean values energy eigenvalues with 50,000 LA (Laplace Approximation) samples.  
-LAsig: one standard deviaiton of the LA result
-infit: whether or not used in parameter fitting
+LAsig: one standard deviaiton of the LA result  
+infit: whether or not used in parameter fitting  
 
 Remarks on LA families:  
 "(1)" means that the Hessian matrix is calculated only the first derivative terms  
-"ex" is used to abbreviate "excitation energy"
+"ex" is used to abbreviate "excitation energy"  
 
-For VS-IMSRG:
+For VS-IMSRG:  
 The interactions are opened by Ragnar Stroberg on GihHub:https://github.com/ragnarstroberg/PRL118032502
-See the following paper for more details.
+
+See the following paper for more details:  
 S.R. Stroberg, A. Calci, H. Hergert, J.D. Holt, S.K. Bogner, R. Roth, and A. Schwenk,  PRL 118, 302502 (2017), arxiv 1607.03229  
