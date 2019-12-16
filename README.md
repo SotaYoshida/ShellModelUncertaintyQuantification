@@ -14,7 +14,7 @@ The interaction in the input format for KSHELL is also available. -> [z_mass.snt
 
 **pshell_data.txt**
 
-Data and calculation of is summarized in [pshell_data.txt]
+Experimental and calculated results are summarized in [pshell_data.txt]
 
 Jnum: total angular momentum  
 JTN: The "specifier" of the states. For example, (JTN=2+0,3) means the third lowest Jpi=2+ and T=0 state.  
