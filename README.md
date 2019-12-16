@@ -24,13 +24,15 @@ CKE(CKEx): Calculated energy eigenvalues (excitation energies) using the Cohen K
 EMAP(ExMAP): Results with the z-mass interection  
 LA: mean values energy eigenvalues with 50,000 LA (Laplace Approximation) samples.  
 LAsig: one standard deviaiton of the LA result  
+Eim4(Exim4): Results with VS-IMSRG 500/400  
+Eim5(Exim5): Results with VS-IMSRG 500/500  
 infit: whether or not used in parameter fitting  
 
 Remarks on LA families:  
-"(1)" means that the Hessian matrix is calculated only the first derivative terms  
+"(1)" means that the Hessian matrix is evaluated only with the first derivative terms  
 "ex" is used to abbreviate "excitation energy"  
 
-For VS-IMSRG:  
+For VS-IMSRG results (Eim4&Eim5):  
 The interactions are opened by Ragnar Stroberg on GihHub:https://github.com/ragnarstroberg/PRL118032502
 
 See the following paper for more details:  
